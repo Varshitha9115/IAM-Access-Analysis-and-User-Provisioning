@@ -1,0 +1,7 @@
+UserID,UserName,Department,Role,AccessLevel,LastLoginDays,Status
+U001,Alice,IT,Admin,High,5,Active
+U002,Bob,Finance,User,Medium,120,Active
+U003,Charlie,HR,Manager,High,60,Active
+U004,David,IT,User,Low,300,Inactive
+U005,Eva,Finance,Admin,High,15,Active
+U006,Frank,HR,User,Low,400,Inactive
